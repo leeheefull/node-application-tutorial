@@ -1,0 +1,32 @@
+{
+  "name": "application-tutorial",
+  "version": "1.0.0",
+  "description": "node.js로 게시판 Rest API 구현",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeheefull/node-application-tutorial.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "sequelize",
+    "mysql"
+  ],
+  "author": "leeheechan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeheefull/node-application-tutorial/issues"
+  },
+  "homepage": "https://github.com/leeheefull/node-application-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
+  }
+}
