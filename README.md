@@ -9,6 +9,5 @@ $ npm install
 ```
 
 ```shell
-$ mysql.server start
 $ node app.js
 ```
